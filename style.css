@@ -14,3 +14,25 @@
     top: 40%;
     bottom: auto;
 } */
+
+
+.footer-icon {
+    background-color: #072F54;
+}
+
+.fa-facebook,
+.fa-twitter,
+.fa-linkedin,
+.fa-youtube {
+
+    color: white;
+    font-size: 2rem;
+    padding: 0 1%;
+}
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover,
+.fa-youtube:hover {
+    color: red;
+}
